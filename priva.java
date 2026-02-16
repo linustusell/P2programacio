@@ -4,6 +4,7 @@ public priva{
     public static void main (String[] args){
 
         System.out.println("Hola, adeu");
+        System.out.println("Segona prova");
 
 
     }
